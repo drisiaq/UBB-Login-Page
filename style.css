@@ -8,6 +8,7 @@ div.container-fluid {
 div.container {
   display: flex;
   width: 70%;
+  justify-content: center;
   margin: auto;
 }
 
